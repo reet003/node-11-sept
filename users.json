@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Ariel",
+        "last_name": "Manchester",
+        "email": "amanchester0@e-recht24.de",
+        "gender": "Female",
+        "ip_address": "80.175.94.110"
+    },
+    {
+        "id": 2,
+        "first_name": "Conny",
+        "last_name": "McLernon",
+        "email": "cmclernon1@japanpost.jp",
+        "gender": "Male",
+        "ip_address": "75.94.128.53"
+    },
+    {
+        "id": 3,
+        "first_name": "Ebeneser",
+        "last_name": "Parriss",
+        "email": "eparriss2@wikimedia.org",
+        "gender": "Male",
+        "ip_address": "139.25.121.141"
+    },
+    {
+        "id": 4,
+        "first_name": "Jervis",
+        "last_name": "Foukx",
+        "email": "jfoukx3@theatlantic.com",
+        "gender": "Male",
+        "ip_address": "243.105.190.68"
+    },
+    {
+        "id": 5,
+        "first_name": "Briant",
+        "last_name": "Anfusso",
+        "email": "banfusso4@home.pl",
+        "gender": "Male",
+        "ip_address": "100.225.155.55"
+    },
+    {
+        "id": 6,
+        "first_name": "Esma",
+        "last_name": "Goldbourn",
+        "email": "egoldbourn5@clickbank.net",
+        "gender": "Genderqueer",
+        "ip_address": "81.103.171.23"
+    },
+    {
+        "id": 7,
+        "first_name": "Sherri",
+        "last_name": "Nutley",
+        "email": "snutley6@t.co",
+        "gender": "Female",
+        "ip_address": "183.177.124.42"
+    },
+    {
+        "id": 8,
+        "first_name": "Ailbert",
+        "last_name": "Siggery",
+        "email": "asiggery7@yellowbook.com",
+        "gender": "Male",
+        "ip_address": "191.45.69.33"
+    },
+    {
+        "id": 9,
+        "first_name": "Kyrstin",
+        "last_name": "Bloyes",
+        "email": "kbloyes8@addtoany.com",
+        "gender": "Female",
+        "ip_address": "179.56.248.149"
+    },
+    {
+        "id": 10,
+        "first_name": "Grannie",
+        "last_name": "McGrudder",
+        "email": "gmcgrudder9@accuweather.com",
+        "gender": "Male",
+        "ip_address": "145.86.100.226"
+    }
+]
